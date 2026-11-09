@@ -1,0 +1,7 @@
+venv/
+airflow/
+data_lake/
+__pycache__/
+*.parquet
+*.json
+.DS_Store
